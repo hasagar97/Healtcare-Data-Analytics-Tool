@@ -1,0 +1,121 @@
+,num,Provider,AoC,Measure,Performance,Age,Gender,Performance_Age,Performance_Gender
+0,1,Wildflower Hospital,PEDS_PCP,FUH-7Days,49,6-15,Not_defined,92,21
+1,2,Silver Birch Community Hospital,ADULTS_PCP,FUH-7Days,73,30-40,Female,53,86
+2,3,Wildflower Hospital,ADULTS_PCP,FUH-30Days,93,15-20,Not_defined,45,47
+3,4,Wildflower Hospital,HOSPITAL,FUH-30Days,82,0-3,Female,37,56
+4,5,Wildflower Hospital,PEDS_PCP,FUH-7Days,79,65+,Male,37,15
+5,6,Pioneer Clinic,HOSPITAL,Well-Child-Visits,38,0-3,Female,59,56
+6,7,Wildflower Hospital,HOSPITAL,Well-Child-Visits,50,50-65,Female,56,51
+7,8,Wildflower Hospital,PEDS_PCP,FUH-30Days,48,20-30,Female,5,45
+8,9,Wildflower Hospital,HOSPITAL,FUH-30Days,39,20-30,Female,69,10
+9,10,Silver Birch Community Hospital,PEDS_PCP,FUH-30Days,19,30-40,Not_defined,76,3
+10,11,Wildflower Hospital,HOSPITAL,Well-Child-Visits,71,30-40,Not_defined,50,67
+11,12,Silver Birch Community Hospital,ADULTS_PCP,FUH-7Days,24,65+,Male,47,75
+12,13,Pioneer Clinic,HOSPITAL,FUH-7Days,72,15-20,Not_defined,20,52
+13,14,Silver Birch Community Hospital,ADULTS_PCP,Well-Child-Visits,30,50-65,Male,13,65
+14,15,Wildflower Hospital,HOSPITAL,FUH-7Days,63,20-30,Female,51,27
+15,16,Silver Birch Community Hospital,PEDS_PCP,FUH-30Days,26,6-15,Not_defined,7,8
+16,17,Pioneer Clinic,HOSPITAL,Well-Child-Visits,90,30-40,Not_defined,72,98
+17,18,Wildflower Hospital,PEDS_PCP,FUH-30Days,35,6-15,Not_defined,91,48
+18,19,Silver Birch Community Hospital,PEDS_PCP,Well-Child-Visits,29,3-6,Female,67,56
+19,20,Silver Birch Community Hospital,ADULTS_PCP,FUH-7Days,23,20-30,Female,8,32
+20,21,Wildflower Hospital,ADULTS_PCP,FUH-30Days,82,0-3,Not_defined,80,26
+21,22,Wildflower Hospital,HOSPITAL,FUH-7Days,67,20-30,Female,94,56
+22,23,Wildflower Hospital,ADULTS_PCP,FUH-30Days,27,50-65,Not_defined,72,20
+23,24,Pioneer Clinic,ADULTS_PCP,Well-Child-Visits,72,30-40,Female,18,46
+24,25,Silver Birch Community Hospital,PEDS_PCP,FUH-30Days,5,50-65,Male,36,40
+25,26,Wildflower Hospital,PEDS_PCP,FUH-30Days,34,15-20,Male,50,3
+26,27,Silver Birch Community Hospital,ADULTS_PCP,FUH-7Days,26,20-30,Not_defined,67,93
+27,28,Wildflower Hospital,HOSPITAL,FUH-30Days,87,15-20,Not_defined,59,47
+28,29,Silver Birch Community Hospital,PEDS_PCP,Well-Child-Visits,89,15-20,Female,97,98
+29,30,Wildflower Hospital,PEDS_PCP,Well-Child-Visits,7,6-15,Not_defined,99,87
+30,31,Silver Birch Community Hospital,PEDS_PCP,Well-Child-Visits,8,15-20,Female,0,7
+31,32,Pioneer Clinic,HOSPITAL,FUH-7Days,12,50-65,Male,49,87
+32,33,Pioneer Clinic,PEDS_PCP,FUH-30Days,96,0-3,Female,46,65
+33,34,Silver Birch Community Hospital,PEDS_PCP,Well-Child-Visits,35,50-65,Female,72,52
+34,35,Silver Birch Community Hospital,ADULTS_PCP,FUH-30Days,36,3-6,Female,57,9
+35,36,Wildflower Hospital,HOSPITAL,FUH-30Days,5,3-6,Not_defined,83,43
+36,37,Wildflower Hospital,PEDS_PCP,FUH-30Days,81,50-65,Not_defined,50,3
+37,38,Pioneer Clinic,ADULTS_PCP,Well-Child-Visits,40,50-65,Not_defined,73,60
+38,39,Pioneer Clinic,ADULTS_PCP,Well-Child-Visits,57,65+,Female,95,67
+39,40,Pioneer Clinic,ADULTS_PCP,Well-Child-Visits,17,30-40,Female,2,4
+40,41,Wildflower Hospital,ADULTS_PCP,FUH-7Days,25,3-6,Male,95,89
+41,42,Silver Birch Community Hospital,ADULTS_PCP,Well-Child-Visits,73,20-30,Not_defined,62,22
+42,43,Wildflower Hospital,PEDS_PCP,FUH-7Days,59,6-15,Not_defined,30,74
+43,44,Wildflower Hospital,PEDS_PCP,FUH-7Days,32,50-65,Male,78,27
+44,45,Pioneer Clinic,ADULTS_PCP,FUH-30Days,13,0-3,Male,33,52
+45,46,Wildflower Hospital,ADULTS_PCP,Well-Child-Visits,29,6-15,Female,74,41
+46,47,Wildflower Hospital,PEDS_PCP,FUH-30Days,1,6-15,Female,43,28
+47,48,Wildflower Hospital,ADULTS_PCP,FUH-30Days,8,50-65,Male,88,88
+48,49,Silver Birch Community Hospital,ADULTS_PCP,Well-Child-Visits,96,3-6,Female,43,59
+49,50,Silver Birch Community Hospital,HOSPITAL,FUH-7Days,54,6-15,Female,58,0
+50,51,Wildflower Hospital,HOSPITAL,FUH-7Days,58,0-3,Not_defined,15,57
+51,52,Pioneer Clinic,HOSPITAL,Well-Child-Visits,46,3-6,Female,19,16
+52,53,Wildflower Hospital,PEDS_PCP,FUH-30Days,9,15-20,Male,50,54
+53,54,Pioneer Clinic,ADULTS_PCP,FUH-30Days,82,20-30,Not_defined,12,76
+54,55,Silver Birch Community Hospital,PEDS_PCP,Well-Child-Visits,43,15-20,Female,0,61
+55,56,Pioneer Clinic,PEDS_PCP,FUH-30Days,96,3-6,Not_defined,98,20
+56,57,Silver Birch Community Hospital,HOSPITAL,FUH-30Days,87,30-40,Male,19,40
+57,58,Wildflower Hospital,HOSPITAL,Well-Child-Visits,76,50-65,Male,77,14
+58,59,Silver Birch Community Hospital,PEDS_PCP,FUH-7Days,8,50-65,Not_defined,86,41
+59,60,Silver Birch Community Hospital,ADULTS_PCP,FUH-7Days,93,50-65,Female,34,48
+60,61,Silver Birch Community Hospital,HOSPITAL,FUH-30Days,65,6-15,Not_defined,39,37
+61,62,Pioneer Clinic,ADULTS_PCP,FUH-7Days,89,30-40,Not_defined,86,61
+62,63,Pioneer Clinic,ADULTS_PCP,FUH-7Days,50,65+,Male,62,92
+63,64,Wildflower Hospital,PEDS_PCP,FUH-7Days,40,3-6,Female,14,4
+64,65,Wildflower Hospital,HOSPITAL,FUH-7Days,8,3-6,Male,86,53
+65,66,Silver Birch Community Hospital,ADULTS_PCP,FUH-7Days,33,6-15,Not_defined,6,59
+66,67,Wildflower Hospital,ADULTS_PCP,FUH-30Days,46,15-20,Not_defined,76,92
+67,68,Pioneer Clinic,ADULTS_PCP,FUH-7Days,7,3-6,Male,16,65
+68,69,Pioneer Clinic,ADULTS_PCP,FUH-7Days,10,20-30,Female,78,91
+69,70,Pioneer Clinic,ADULTS_PCP,FUH-30Days,6,30-40,Male,99,31
+70,71,Wildflower Hospital,PEDS_PCP,FUH-30Days,17,3-6,Male,99,6
+71,72,Wildflower Hospital,ADULTS_PCP,Well-Child-Visits,2,0-3,Male,25,49
+72,73,Silver Birch Community Hospital,ADULTS_PCP,FUH-7Days,20,20-30,Male,73,54
+73,74,Pioneer Clinic,PEDS_PCP,FUH-30Days,33,15-20,Female,27,81
+74,75,Silver Birch Community Hospital,PEDS_PCP,Well-Child-Visits,35,3-6,Female,74,98
+75,76,Pioneer Clinic,HOSPITAL,Well-Child-Visits,51,15-20,Male,30,93
+76,77,Wildflower Hospital,ADULTS_PCP,FUH-7Days,70,0-3,Not_defined,83,7
+77,78,Wildflower Hospital,HOSPITAL,FUH-30Days,13,15-20,Not_defined,78,14
+78,79,Wildflower Hospital,PEDS_PCP,FUH-7Days,70,15-20,Not_defined,70,97
+79,80,Pioneer Clinic,PEDS_PCP,FUH-7Days,6,6-15,Female,47,26
+80,81,Pioneer Clinic,ADULTS_PCP,FUH-30Days,11,0-3,Male,38,20
+81,82,Wildflower Hospital,ADULTS_PCP,FUH-30Days,68,3-6,Male,12,63
+82,83,Pioneer Clinic,HOSPITAL,Well-Child-Visits,30,20-30,Not_defined,91,64
+83,84,Silver Birch Community Hospital,HOSPITAL,Well-Child-Visits,2,0-3,Female,66,95
+84,85,Silver Birch Community Hospital,HOSPITAL,FUH-7Days,43,50-65,Male,13,46
+85,86,Pioneer Clinic,ADULTS_PCP,FUH-30Days,27,50-65,Female,48,55
+86,87,Silver Birch Community Hospital,ADULTS_PCP,FUH-30Days,18,65+,Male,29,89
+87,88,Silver Birch Community Hospital,PEDS_PCP,FUH-7Days,35,6-15,Female,59,48
+88,89,Pioneer Clinic,ADULTS_PCP,FUH-7Days,49,15-20,Male,54,46
+89,90,Silver Birch Community Hospital,ADULTS_PCP,FUH-7Days,1,50-65,Female,36,50
+90,91,Wildflower Hospital,HOSPITAL,FUH-30Days,8,3-6,Female,1,83
+91,92,Pioneer Clinic,PEDS_PCP,Well-Child-Visits,79,20-30,Female,88,20
+92,93,Silver Birch Community Hospital,HOSPITAL,FUH-7Days,40,15-20,Female,60,98
+93,94,Wildflower Hospital,ADULTS_PCP,Well-Child-Visits,43,6-15,Female,60,72
+94,95,Wildflower Hospital,PEDS_PCP,FUH-30Days,34,50-65,Female,69,43
+95,96,Wildflower Hospital,PEDS_PCP,FUH-7Days,31,15-20,Female,4,36
+96,97,Silver Birch Community Hospital,ADULTS_PCP,Well-Child-Visits,33,50-65,Not_defined,45,95
+97,98,Pioneer Clinic,PEDS_PCP,FUH-7Days,3,30-40,Male,31,8
+98,99,Silver Birch Community Hospital,PEDS_PCP,FUH-7Days,93,15-20,Male,82,33
+99,100,Wildflower Hospital,ADULTS_PCP,Well-Child-Visits,18,20-30,Male,96,24
+100,101,Silver Birch Community Hospital,ADULTS_PCP,FUH-7Days,88,20-30,Not_defined,94,32
+101,102,Pioneer Clinic,PEDS_PCP,FUH-7Days,57,20-30,Male,84,13
+102,103,Silver Birch Community Hospital,HOSPITAL,FUH-30Days,90,15-20,Not_defined,50,78
+103,104,Wildflower Hospital,PEDS_PCP,FUH-7Days,40,20-30,Not_defined,34,38
+104,105,Pioneer Clinic,HOSPITAL,FUH-30Days,18,6-15,Male,53,49
+105,106,Wildflower Hospital,PEDS_PCP,FUH-7Days,8,6-15,Male,20,82
+106,107,Wildflower Hospital,PEDS_PCP,FUH-7Days,97,65+,Male,54,78
+107,108,Wildflower Hospital,ADULTS_PCP,Well-Child-Visits,69,20-30,Female,97,78
+108,109,Wildflower Hospital,HOSPITAL,Well-Child-Visits,29,6-15,Not_defined,97,47
+109,110,Wildflower Hospital,HOSPITAL,Well-Child-Visits,92,20-30,Female,45,17
+110,111,Pioneer Clinic,HOSPITAL,FUH-7Days,2,0-3,Female,86,97
+111,112,Pioneer Clinic,PEDS_PCP,FUH-7Days,51,6-15,Female,19,66
+112,113,Silver Birch Community Hospital,PEDS_PCP,Well-Child-Visits,0,15-20,Female,74,15
+113,114,Silver Birch Community Hospital,PEDS_PCP,Well-Child-Visits,38,15-20,Female,84,95
+114,115,Pioneer Clinic,HOSPITAL,Well-Child-Visits,95,6-15,Not_defined,19,2
+115,116,Silver Birch Community Hospital,PEDS_PCP,FUH-30Days,5,3-6,Male,38,63
+116,117,Wildflower Hospital,ADULTS_PCP,Well-Child-Visits,18,50-65,Male,32,76
+117,118,Silver Birch Community Hospital,ADULTS_PCP,Well-Child-Visits,64,50-65,Female,38,80
+118,119,Pioneer Clinic,PEDS_PCP,FUH-7Days,4,30-40,Female,20,59
+119,120,Wildflower Hospital,PEDS_PCP,FUH-7Days,44,6-15,Male,93,29
